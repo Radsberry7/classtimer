@@ -1,0 +1,1 @@
+This project is going to be a simple timer that can be used during classes. Still not working yet. I am a begginner.
